@@ -64,12 +64,3 @@ The scripts does the following:
 2. Use R console to set working directory to the directory with the script and the dataset using `setwd()` command
 3. Run the R script `run_analysis.R`
 4. As a result new file `tidy_dataset.txt` is created in the same directory
-
-### Dataset codebook
-Final tidy dataset columns description:
-
-1. subject - a number from 1 to 30 assign to every distinct subject of the experiment
-2. activity - a type of activity undertaken by the subject during the measurements
-3. feature - a feature being measured
-4. count - a number of times that a certain feature was measured for a given subject and activity |
-5. value - mean of the results of the measurements done for same feature, subject and activity
