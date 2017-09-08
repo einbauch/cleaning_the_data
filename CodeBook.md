@@ -31,5 +31,5 @@
 1. subject - a number from 1 to 30 assign to every distinct subject of the experiment
 2. activity - a type of activity undertaken by the subject during the measurements
 3. feature - a feature being measured
-4. count - a number of times that a certain feature was measured for a given subject and activity |
+4. count - a number of times that a certain feature was measured for a given subject and activity
 5. value - mean of the results of the measurements done for same feature, subject and activity
